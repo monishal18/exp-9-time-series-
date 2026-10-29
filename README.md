@@ -215,7 +215,7 @@ print("Identification, estimation, diagnostics, and forecasting performed.")
 ## Expected Output
 ## Original monthly sales data and graph.
 
-- <img width="898" height="558" alt="image" src="https://github.com/user-attachments/assets/ec1af91d-64f8-44e9-a4e6-0d14968b2dc6" />
+ <img width="898" height="558" alt="image" src="https://github.com/user-attachments/assets/ec1af91d-64f8-44e9-a4e6-0d14968b2dc6" />
 
 <img width="983" height="367" alt="image" src="https://github.com/user-attachments/assets/42a8e953-bb7e-4203-83f5-86bacaddf95c" />
 
